@@ -7066,6 +7066,17 @@ The following diagram shows the Policy configuration service provider in tree fo
     <a href="./policy-csp-networkisolation.md#networkisolation-neutralresources" id="networkisolation-neutralresources">NetworkIsolation/NeutralResources</a>
   </dd>
 </dl>
+    
+### NetworkListManager policies
+
+<dl>
+  <dd>
+    <a href="./policy-csp-networklistmanager.md#networklistmanager-allowedtlsauthenticationendpoints" id="networklistmanager-allowedtlsauthenticationendpoints">NetworkListManager/AllowedTlsAuthenticationEndpoints</a>
+  </dd>
+  <dd>
+    <a href="./policy-csp-networklistmanager.md#networklistmanager-configuredtlsauthenticatednetworkname" id="networklistmanager-configuredtlsauthenticatednetworkname"">NetworkListManager/ConfiguredTlsAuthenticatedNetworkName</a>
+  </dd>
+</dl>
 
 ### Notifications policies
 
